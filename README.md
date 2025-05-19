@@ -10,7 +10,7 @@
 
 - 💻 I’m currently working on something **cool and meaningful** 😉
 - 🤝 Looking to collaborate on **open-source projects and hackathons**
-- 📫 Reach me at: [shubhamprasad3012@gmail.com](mailto:shubhamprasad3012@gmail.com)
+- 📫 Reach me at: [shubhampr3012@gmail.com](mailto:shubhamprasad3012@gmail.com)
 
 ---
 
@@ -62,6 +62,5 @@
 > “It works on my machine.” — Every Developer Ever
 
 ---
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamPrasad3012&theme=react-dark)](https://github.com/ShubhamPrasad3012)
 
 
