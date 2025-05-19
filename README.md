@@ -59,7 +59,7 @@
 
 ### 💬 Ask me anything — I'm happy to help!
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “It works on my machine.” — Every Developer Ever
 
 ---
 
