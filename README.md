@@ -62,10 +62,6 @@
 > “It works on my machine.” — Every Developer Ever
 
 ---
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamPrasad3012&theme=react-dark)](https://github.com/ShubhamPrasad3012)
 
-### 📌 Pinned Projects
-<p align="left">
-  <a href="https://github.com/ShubhamPrasad3012/your-project-1">🌟 Your Awesome Project</a><br/>
-  <a href="https://github.com/ShubhamPrasad3012/another-project">💻 AI + Web Integration</a><br/>
-  <a href="https://github.com/ShubhamPrasad3012/open-source-contributions">🔧 Open Source Contributions</a>
-</p>
+
